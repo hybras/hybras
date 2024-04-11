@@ -8,8 +8,7 @@ Feel free to call me `hybras`, It's my 2nd name at this point. In the https://ww
 
 As for my pfp, its the incognito logo from chrome (though it has since been slightly updated).
 
-- 🔭 I’m currently working on protonvpn
-- 🌱 I’m currently learning rust and javascript / react
+- 🌱 I’m currently learning javascript / react
 - 👯 I’m looking to collaborate on anything you want
 - 🤔 I’m looking for help with life
 - 💬 Ask me about UMD
